@@ -39,7 +39,7 @@ For this assignment, I made a webpage that uses JavaScript to display the curren
 
 ## Screenshot
 
-![Homework 9 Screenshot](9.png)
+![Homework 9 Screenshot](images/9.png)
 
 ## Reflection
 
