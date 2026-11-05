@@ -35,7 +35,7 @@ For this assignment, I made a webpage that uses JavaScript to display the curren
 
 ## GitHub Pages Link
 
-[View My Website](PASTE-YOUR-GITHUB-PAGES-URL-HERE)
+[View My Website](https://jaspreet1805.github.io/comp484-HW9/)
 
 ## Screenshot
 
